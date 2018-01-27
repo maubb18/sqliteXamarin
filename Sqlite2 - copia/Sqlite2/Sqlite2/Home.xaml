@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Sqlite2.Home">
+    <ScrollView>
+        <StackLayout Spacing="10">
+            <Label Text="ADMINISTRACIÓN DOCENTES-INGRESO!!!" 
+                       Font="24" TextColor="Blue"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       FontAttributes="Bold"></Label>
+            <Entry x:Name="nombresEntry" Placeholder="Nombres"></Entry>
+            <Entry x:Name="apellidosEntry" Placeholder="Apellidos"></Entry>
+            <Entry x:Name="salarioEntry" Placeholder="Salario" Keyboard="Numeric"></Entry>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Fecha contratacion"
+                           VerticalOptions="Center"></Label>
+                <DatePicker x:Name="fechaContratoDatePicker"></DatePicker>
+                <Label Text="Doctorado"
+                           VerticalOptions="Center"></Label>
+                <Switch x:Name="doctoradoSwitch"
+                            VerticalOptions="Center"
+                            IsToggled="True"></Switch>
+            </StackLayout>
+            <Button x:Name="agregarButton"
+                        Text="Agregar"
+                        BackgroundColor="Red"
+                        TextColor="White"></Button>
+            <ListView x:Name="listaListView"></ListView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

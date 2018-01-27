@@ -1,0 +1,42 @@
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Sqlite2.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Sqlite2.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\SQLite.Net.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.csprojResolveAssemblyReference.cache
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.csproj.CoreCompileInputs.cache
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.MainPage.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.App.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.Home.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2\obj\Debug\Sqlite2.HomePage.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Sqlite2.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Sqlite2.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\SQLite.Net.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.csprojResolveAssemblyReference.cache
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.csproj.CoreCompileInputs.cache
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.MainPage.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.App.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.Home.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.HomePage.xaml.g.cs
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2\obj\Debug\Sqlite2.pdb

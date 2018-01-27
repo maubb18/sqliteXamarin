@@ -1,0 +1,132 @@
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.Android.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.Android.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\com.companyname.Sqlite2.apk
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\com.companyname.Sqlite2-Signed.apk
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\SQLite.Net.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.csprojResolveAssemblyReference.cache
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.csproj.CoreCompileInputs.cache
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.pdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\android\bin\com.companyname.Sqlite2.apk
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable\icon.png
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\res\values\styles.xml
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\R.cs.flag
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\uploadflags.txt
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Sqlite2.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Sqlite2.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\mayte14\source\repos\Sqlite2\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.Android.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.Android.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\com.companyname.Sqlite2.apk
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\com.companyname.Sqlite2-Signed.apk
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\SQLite.Net.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.csprojResolveAssemblyReference.cache
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.csproj.CoreCompileInputs.cache
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.dll
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\Sqlite2.Android.pdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\android\bin\com.companyname.Sqlite2.apk
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable\icon.png
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\res\values\styles.xml
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\R.cs.flag
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\uploadflags.txt
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\bin\Debug\Sqlite2.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Sqlite2.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Sqlite2.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mayte14\source\repos\Sqlite2 - copia\Sqlite2\Sqlite2.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
